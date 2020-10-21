@@ -28,7 +28,7 @@ def lpr(filename):
     # cv2.drawContours(img, contours, -1, (0, 0, 255), 3)
     # cv2.imshow("lpr", img)
     # cv2.waitKey(0)
-
+######
     # 将轮廓规整为长方形
     rectangles = []
     for c in contours:
