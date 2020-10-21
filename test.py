@@ -35,4 +35,4 @@ cv.imshow('resize1', img_test2)
 cv.waitKey()
 
 cv.destroyAllWindows()
-#edit test file 测试github上面提交修改
+# edit test file 测试github上面提交修改
